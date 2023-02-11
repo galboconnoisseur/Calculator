@@ -19,6 +19,7 @@ flex-direction: column-reverse;
 word-wrap: break-word;
 padding: 12px;
 overflow: hidden;
+text-align: right;
 `
 
 export const ButtonContainer = styled.div``
